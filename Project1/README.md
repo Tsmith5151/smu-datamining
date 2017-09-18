@@ -5,5 +5,3 @@
 </p>
 
 **Project: San Diego County Crime Exploratory Analysis**
-
-Team: Robert Flamenbaum and Trace Smith
